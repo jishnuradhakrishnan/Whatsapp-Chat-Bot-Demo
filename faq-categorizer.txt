@@ -1,0 +1,6 @@
+greetings     hi hi. hello how are you ? hey . hows it going good morning good evening good afternoon howdy 
+conversation-complete	 Thanks done that's all thats it . thats it I am done Thank you for information Thank . thanks . thank you . thanks nothing else thats it
+who-am-i     who you are. who are you?. Could you please tell me who I'm speaking with?. May I ask who's calling?. Would you mind telling who's talking?.
+weather-info What's it like outside?. . Do you have rain?. What's the temperature in Manchester?. It's snowing here in Manchester, what's it doing there?. What's the weather forecast for the rest of the week?.
+account-balance show me my account balance. How's the weather?
+angry-emoji 😡. 😠. 🤬
